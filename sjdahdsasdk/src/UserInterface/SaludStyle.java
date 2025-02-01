@@ -23,6 +23,7 @@ public abstract class SaludStyle {
     public static final Cursor CURSOR_DEFAULT = new Cursor(Cursor.DEFAULT_CURSOR);
 
     
-    public static final URL URL_SPLASH= SaludStyle.class.getResource("/UserInterface/Resource/SplashPoliSalud.png");
-
+    public static final URL URL_SPLASH= SaludStyle.class.getResource("/UserInterface/Resource/EPNSPG1.png");
+    public static final URL URL_LOGO = SaludStyle.class.getResource("/UserInterface/Resource/EPNLOGO.png");
+    public static final URL URL_MAIN = SaludStyle.class.getResource("/UserInterface/Resource/EPNPG.png");
 }
